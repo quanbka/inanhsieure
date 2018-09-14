@@ -1,0 +1,222 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>{keyword}</title>
+<meta name="description" content="{keyword}">
+<meta name="keywords" content="{keyword}">
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta http-equiv="Content-Language" content="ru">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="Copyright" content="(C) 2000-2018 IZone.ru, Cdmail.ru">
+<link rel="canonical" href="http://www.cdmail.ru/sys/utilities/java.htm">
+<link href="/cdmail.css" type="text/css" rel="stylesheet">   
+
+<style type="text/css">
+img.big {cursor: pointer; max-width: 150px; max-height: 130px;}
+img.big:hover {max-width: none; max-height: none;}
+.img_preview {float: left; width: 107px;}
+.nomer {background: #AED0F1; padding: 4px; border-radius: 0.2em;}
+.clear {clear: left;}  
+</style>
+</head>
+<body>
+
+<table border="0" cellpadding="0" width="100%" cellspacing="5" class="block_up"> 
+<tr> 
+<td width="100%"> 
+ 
+</td> 
+<td align="right"> 
+<table cellspacing="0" cellpadding="0">
+  <tr>
+<td nowrap>
+<img class="mobile" border="0" src="http://www.cdmail.ru/pic/search_site.gif" width="15" height="15" alt=""></td>
+<td nowrap>&nbsp;</td>
+<td nowrap>
+<FORM action=http://www.cdmail.ru/cgi-bin/search/search.pl method=get>
+</td>    
+    <td nowrap>             
+               <select name=z class="mobile">
+                <option selected value='0'>Весь сайт
+                <option value='3'>Computer FAQ
+                <option value='1'>Программы
+                <option value='2'>Обзоры
+                
+               </select>
+</td>    
+    <td nowrap>&nbsp;             
+               </td>    
+    <td nowrap>
+<INPUT class="mobile" size="30" name=q>
+</td>
+    <td nowrap>&nbsp;
+</td>
+<td nowrap>
+<INPUT type=submit value="Поиск" class="search_button"> 
+<INPUT TYPE="Hidden" NAME="stpos" VALUE="0"> 
+<INPUT TYPE="Hidden" NAME="s" VALUE="R"> 
+</td>
+<td>
+</FORM>&nbsp;</td>
+</tr>
+</table>
+</td> 
+  </tr> 
+</table>   
+ 
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="5" WIDTH="100%" class="sub_body">
+<TR>
+<TD valign="top">
+<div class="mobile_left" id="mobile_left">
+<div class="vertical"></div></div>
+</TD>
+<td class="td_color" valign="top" width="1"></td>
+<TD valign="top" width="100%"><!--noindex-->
+<div style="padding: 10px"></div>
+&nbsp;<img src="/picinfo/interes.png" alt="" border="0" style="max-width: 220px; max-height: 25px; width: 100%;  height: auto;">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="5" width="100%">
+  <tr>
+    <td align="left" valign="top" class="software_table">
+ 
+      </td>
+    <td align="center" valign="top" class="software_table">
+ 
+    </td>
+    <td align="right" valign="top" class="software_table">
+ 
+      </td>
+  </tr>
+</table>
+  </div>
+<!--/noindex-->
+<br>
+
+<h1 align="center">{keyword}</h1> 
+<div align="left" style="padding: 5px"></div>
+<table border="0" cellpadding="3" width="100%">
+<tr>
+<td class="soft" valign="top">{manytext_bing}</td>
+</tr>
+</table>
+<div style="padding: 10px"></div>
+<div align="center">
+<div style="display: inline-block; width: 350px;">
+<noindex>
+<div align="center" style="padding-top: 5px">
+<div id="center_inf">
+ 
+<!-- cdmail_336x280_software -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-7956187166776980"
+     data-ad-slot="6989650152"></ins>
+ 
+</div>
+</div>
+<br>
+</noindex></div></div>
+<!--The layers below the required -->
+<div class="clear"></div>
+<div style="padding: 10px"></div> 
+ 
+<div id="FormComment"></div>
+<p class="soft" align="center">&nbsp;</p>          
+</TD>
+<TD valign="top">
+<div class="mobile_right" id="mobile_right">
+<div align="right">
+  <table width="245" cellspacing="1">
+    <tr>
+    <td align="left">&nbsp;</td>
+    <td align="left" valign="top" class="soft">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left">&nbsp;</td>
+    <td align="left" valign="top" class="soft">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left">&nbsp;</td>
+    <td align="left" valign="top" class="soft">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left">&nbsp;</td>
+    <td align="left" valign="top" class="soft">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left">&nbsp;</td>
+    <td align="left" valign="top" class="soft">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left">&nbsp;</td>
+    <td align="left" valign="top" class="soft">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left">&nbsp;</td>
+    <td align="left" valign="top" class="soft">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left">&nbsp;</td>
+    <td align="left" valign="top" class="soft">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left">&nbsp;</td>
+    <td align="left" valign="top" class="soft">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left">&nbsp;</td>
+    <td align="left" valign="top" class="soft">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left">&nbsp;</td>
+    <td align="left" valign="top" class="soft">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left">&nbsp;</td>
+    <td align="left" valign="top" class="soft">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left">&nbsp;</td>
+    <td align="left" valign="top" class="soft">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left">&nbsp;</td>
+    <td align="left" valign="top" class="soft">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left">&nbsp;</td>
+    <td align="left" valign="top" class="soft">&nbsp;</td>
+  </tr>
+</table>
+</div>
+<p>
+</div></TD>
+</TR>
+</TABLE>
+<noindex>
+<div class="sub_body">
+<div align="center" style="padding:20px;">
+<div id="bot_inf">
+ 
+<!-- cdmail_responsive_bot -->
+<ins class="adsbygoogle"
+     style="display:block; min-width:400px; max-width:900px; width:100%; height:90px"
+     data-ad-client="ca-pub-7956187166776980"
+     data-ad-slot="1735460956"
+     data-ad-format="horizontal"></ins>
+ 
+</div>
+</div></div>
+<div class="block_bot">
+<div id="nav_bot"></div>
+</div>
+<div align="center" id="counters">
+  <!-- Yandex.Metrika counter -->
+  ><div><img src="https://mc.yandex.ru/watch/34773215" style="position:absolute; left:-9999px;" alt="" /></div> 
+<!-- /Yandex.Metrika counter -->
+</div>
+</noindex> 
+</body>
+</html>

@@ -1,0 +1,98 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,300&subset=latin,cyrillic-ext,cyrillic' rel='stylesheet' type='text/css'>
+<link rel="shortcut icon" href="http://www.4java.ru/favicon.ico">
+<title>{keyword}</title>
+<meta name="description" content="{keyword}" />
+<meta name="keywords" content="{keyword}" />
+       
+    
+  <link href="http://www.4java.ru/retouch/css/bootstrap.css" rel="stylesheet">
+<link href="http://www.4java.ru/retouch/fonts/font-awesome-4.0.1/css/font-awesome.min.css" rel="stylesheet">
+
+<link href="http://www.4java.ru/retouch/css/ui.totop.css" rel="stylesheet">
+<link href="http://www.4java.ru/retouch/css/stylesheet.css" rel="stylesheet">
+<link href="http://www.4java.ru/retouch/css/skins.css" rel="stylesheet">
+<link href="http://www.4java.ru/css/bootstrap-select.min.css" rel="stylesheet">
+
+<!--[if lt IE 9]>
+<script src="http://www.4java.ru/retouch/js/html5shiv.js"></script>
+<script src="http://www.4java.ru/retouch/js/respond.min.js"></script>
+<![endif]-->
+</head>
+<body>
+<div><img src="https://mc.yandex.ru/watch/41603959" style="position:absolute; left:-9999px;" alt="" /></div><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=1952271;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+    
+    
+<div id="utter-wrapper" class="color-skin-1">    
+    
+<!-- Header -->
+
+      
+
+            <header id="header" class="header">
+                <nav class="navbar navbar-default" role="navigation">
+                    <div class="container">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                            <span class="sr-only">Toggle</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            </button>
+                        
+                            <div class="visible-xs visible-sm">    <div class="widget search">
+        
+
+<gcse:searchbox-only></gcse:searchbox-only>
+
+    </div>        
+  </div>
+                        </div>
+                        <div class="collapse navbar-collapse navbar-ex1-collapse">
+                        
+
+			<div class="col-md-9 main">
+                            
+                                 
+
+   
+<div class="row"><div class="col-md-12"><h1>{keyword}</h1>
+</div></div>
+<div class="row">
+<div class="col-md-12 hidden-xs">
+<p></p>
+</div>
+<div class="col-md-12">
+<p>&nbsp; </p>
+</div></div>        
+
+   
+<div class="row"><div class="col-md-12">
+  <h3></h3></div></div>
+
+<div class="row">                                    <div class="col-sm-3">
+                                        <div class="post-wrapper"> 
+						<article class="post">							
+                                                        <div class="post-thumb"></div>
+							<div class="post-details">
+							  <span class="post-thumb"><img src="http://static.4java.ru/data/programs/images/whatsapp-messenger_194624.gif" class="img-responsive max-height" alt="WhatsApp Messenger" width="100" /></span>
+							  <div class="post-meta"><span>{manytext_bing}</span></div>								                                                                
+                                                                
+							</div>                                                        
+						</article>
+                                        </div>
+                                    </div>
+				
+                                 
+</body>
+</html>
+ 

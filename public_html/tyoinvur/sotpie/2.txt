@@ -1,0 +1,114 @@
+
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<meta name='yandex-verification' content='e2335b9aef208214' />
+<meta name='viewport' content='width=device-width' />
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<title>{keyword}</title>
+<style type='text/css'>
+body {
+max-width: 390px;
+background: #D9EEFF;
+margin: auto;
+margin-top: 2px;
+margin-bottom: 2px;
+color: #005CC4;
+font-family: Arial, sans-serif;
+font-size: 12px;
+}
+
+table, td { text-align: center; border-collapse: collapse; padding: 4px; }
+td, th { border: 1px solid #757575; }
+th { font-weight: bold }
+
+input, select, textarea {
+border: 1px #c3c2c2 solid;
+padding: 2px;
+margin: 1px 0px 2px 0px;
+color: #000000;
+}
+
+input:hover, select:hover, textarea:hover {
+border: 1px #c3c2c2 solid;
+padding: 2px;
+margin: 1px 0px 2px 0px;
+color: #333333;
+}
+
+form {
+margin: 0px;
+}
+
+a:link, a:visited, a:active {
+color: #3394FF;
+text-decoration: underline;
+}
+
+a:hover {
+color: #0e5986;
+text-decoration: none;
+}
+
+.main {
+border: 1px #BBDDFF solid;
+background: #ECF5FF;
+padding: 4px 4px 0px 4px;
+}
+
+.title {
+text-align: center;
+border: 1px #42A0FF solid;
+padding: 5px 2px 5px 2px;
+margin: -2px -2px 2px -2px;
+background: #BBDFFF;
+color: #4FA3FF;
+font-weight: bold;
+font-size: 13px;
+}
+
+.foot, .bottom {
+text-align: center;
+border: 1px #42A0FF solid;
+padding: 2px 2px 2px 2px;
+margin: 2px -2px 2px -2px;
+background: #D9EBFF;
+}
+
+.hr {
+padding: 1px 2px 1px 2px;
+margin: 2px -2px 2px -2px;
+background: #4FA3FF;
+}
+
+.line, .menu {
+border: 1px #BBDDFF solid;
+padding: 3px;
+margin: 0px -2px 1px -2px;
+background: #ECF5FF;
+}
+
+.best, .single {
+border: 1px #BBDDFF solid;
+padding: 5px;
+margin: 0px -2px 1px -2px;
+background: #ECF5FF;
+color: #D50000;
+}
+
+.best a { color: #D21B00; font-weight: bold; }
+.single a { color: #FF0000 }
+
+</style>
+</head>
+<body>
+<div class='main'><div class='title'><h1>{keyword}</h1></div>
+<div class='bottom'>{manytext_bing}</div>
+<div class='menu'>
+ <br />
+</div>
+<div class='bottom'> WapBox.net <br /></div>
+<div class='bottom'>
+[0.00193] sec
+</div></div></body></html>
